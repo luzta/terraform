@@ -14,3 +14,8 @@ variable "tags" {
   type = map(string)
   default = {}
 }
+
+variable "cidr_public_subnet" {
+  description = "Cidr para la red publica"
+  type = string
+}
