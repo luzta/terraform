@@ -30,8 +30,3 @@ Opcionales:
    - us-east-2: ami-017b7692ccf189880
    - us-west-1: ami-0075ea75ff0c22b6b
    - us-west-2: ami-04b315babb27d328e
-
-
-AWS ACCOUNT
-export AWS_ACCESS_KEY_ID=AKIAYUWYIAUY4VEJGCKM
-export AWS_SECRET_ACCESS_KEY=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
