@@ -30,5 +30,3 @@ Opcionales:
    - us-east-2: ami-017b7692ccf189880
    - us-west-1: ami-0075ea75ff0c22b6b
    - us-west-2: ami-04b315babb27d328e
-   - sa-east-1: ami-0f12bf0dc725d0879
-   - eu-central-1: ami-07f2dd2967131f56c
