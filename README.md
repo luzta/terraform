@@ -2,7 +2,7 @@
 Este proyecto muestra un terraform basico para iniciar terraform con AWS. 
 
 01_basic
-Contiene un ejemplo basico de como usar teraform para crear una VPC. 
+Contiene un ejemplo básico de como usar teraform para crear una VPC. 
 
 02_modules
 Contiene un ejemplo para usar dos módulos:
