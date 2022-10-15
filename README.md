@@ -20,7 +20,8 @@ Instlar git desde aquí: https://git-scm.com/downloads
 Visual Code: Este editor es opcional, y puede obtenerlo desde aquí: https://code.visualstudio.com/docs/setup/setup-overview
 
 # Recursos:
-Cuenta AWS: 594232739121 - la asignación de credenciales y otros parámetros se darán en sala.
+Cuenta AWS: https://594232739121.signin.aws.amazon.com/console
+ la asignación de credenciales y otros parámetros se darán en sala.
 Terraform Provider AWS: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 GRAPHVIZ Online: https://dreampuf.github.io/GraphvizOnline/
 Usar las ami por region:

@@ -23,4 +23,7 @@ module "nginx" {
   vpc_id = module.vpc.vpc_id
   subnet_id = module.vpc.vpc_red_publica_id
   tags=local.tags
+  depends_on = [
+    module.vpc
+  ]
 }
